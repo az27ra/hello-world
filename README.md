@@ -1,2 +1,5 @@
 # hello-world
-github guide
+
+Hi Humans!
+
+I like Node.js and ES6.
