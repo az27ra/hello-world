@@ -2,4 +2,4 @@
 
 Hi Humans!
 
-I like Node.js and ES6.
+I like Node.js(React, Redux) and ES6.
